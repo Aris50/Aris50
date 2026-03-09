@@ -28,11 +28,3 @@ Some repositories include **video demonstrations** that show how the application
 <p>
 <img src="https://skillicons.dev/icons?i=spring,angular,react,docker,mysql,git,unity"/>
 </p>
-
-## Contact
-
-GitHub  
-https://github.com/Aris50
-
-LinkedIn  
-https://www.linkedin.com/in/aris-oniga-616a6b2b0
