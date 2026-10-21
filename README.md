@@ -7,7 +7,7 @@
 
 ## About
 
-I am a third-year Computer Science student at the **Faculty of Mathematics and Computer Science, Babeș-Bolyai University (Cluj-Napoca)**.
+I am a Computer Science graduate (B.Sc. 2026) and an M.Sc. student in Distributed Systems at the **Faculty of Mathematics and Computer Science, Babeș-Bolyai University (Cluj-Napoca).**
 
 My main interests are **backend development, full-stack systems, and software architecture**, with a focus on understanding how real software systems are designed and implemented.
 
