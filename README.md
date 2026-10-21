@@ -15,7 +15,6 @@ I am also particularly interested in **databases and optimisation**, especially 
 
 Beyond this, I have a growing interest in **computer networks and cybersecurity**. While these are areas I am still actively learning, I find them fascinating because they reveal how systems communicate, scale, and remain secure in real-world environments.
 
-Some repositories include **video demonstrations** that show how the applications work in practice.
 
 ## Languages
 
